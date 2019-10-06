@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\aula03\aula03\bin\aula03.dll.config
+C:\Users\etec\Desktop\aula03\aula03\bin\aula03.dll
+C:\Users\etec\Desktop\aula03\aula03\bin\aula03.pdb
+C:\Users\etec\Desktop\aula03\aula03\obj\Debug\aula03.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\aula03\aula03\obj\Debug\aula03.dll
+C:\Users\etec\Desktop\aula03\aula03\obj\Debug\aula03.pdb
